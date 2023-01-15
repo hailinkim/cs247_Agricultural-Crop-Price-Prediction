@@ -1,7 +1,7 @@
 # &#127806; [Final Project Report] Agricultural Crop Price Prediction
 
-<div style="text-align: right"> CS 247 Machine Learning </div>
-<div style="text-align: right">December 18, 2022 | Angelica Kim </div>
+<div style="text-align: end"> CS 247 Machine Learning </div>
+<div style="text-align: end">December 18, 2022 | Angelica Kim </div>
 
 ### 1. Project Goal
 
