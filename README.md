@@ -1,4 +1,4 @@
-# &#127806; [Final Project Report] Agricultural Crop Price Prediction
+# &#127806; Agricultural Crop Price Prediction
 
 <p align="right"> CS 247 Machine Learning </p>
 <p align="right">December 18, 2022 | Angelica Kim </p>
